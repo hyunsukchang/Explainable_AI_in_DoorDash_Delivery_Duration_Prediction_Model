@@ -1,4 +1,4 @@
-# Explainable_AI_in_DoorDash_Delivery_Duration_Prediction_Model
+# XAI in DoorDash Delivery Duration Prediction Model
 
 #### Leveraged XAI techniques (e.g., SHAP & EBM) to interpret the significance of predictors in forecasting delivery times
 #### Applied model selection using 7 different ML regressors (Ridge, Decision Tree, Random Forest, XGBoost, LGBM, MLP)
